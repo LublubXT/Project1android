@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="my.first.app" version="0.1.0">
+<widget id="app1" version="0.1.0">
   <name>FirstApp</name>
   <description>
     Example Tabris.js App
